@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Seja Bem vindo ao Tabnews!</h1>
+    return <h1>Adocica meu amor! Na Tabnews!</h1>
 }
 
 export default Home;
